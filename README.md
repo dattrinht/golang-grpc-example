@@ -1,5 +1,6 @@
 # Golang Grpc Server Excample
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dattt]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## About The Project
 
