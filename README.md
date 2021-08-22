@@ -1,7 +1,5 @@
 # Golang Grpc Server Excample
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 ## About The Project
 
 Simple Golang grpc server with react ui.
